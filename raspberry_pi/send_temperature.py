@@ -1,4 +1,7 @@
 #!/usr//bin/python
+
+# Send temperature readings to a MQTT topic
+
 import time
 import json
 from datetime import datetime
